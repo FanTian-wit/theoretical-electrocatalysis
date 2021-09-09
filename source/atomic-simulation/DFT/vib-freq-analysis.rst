@@ -5,7 +5,7 @@ Calculating vibrational frequencies is very important in computation. From the v
 
 .. math::
 
-    ZPE = \frac{1}{2}\sum_ihc\nu_i
+    ZPE = \frac{1}{2}\sum_ih\nu_i
 
 .. math::
 
